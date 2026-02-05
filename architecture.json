@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_mythopoeic_exile_diaspora",
+  "title": "The Chronicles of Exile",
+  "tagline": "A generation of outcasts chases the rhythm of a lost homeland across the American night.",
+  "target_words": 70000,
+  "actual_words": 75841,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Mythologization of Place",
+    "Exile as Creative Genesis",
+    "Diaspora of the Spirit",
+    "The Search for Authentic Rhythm"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Greyhound Prophecy",
+      "words": 3150
+    },
+    {
+      "ch": 2,
+      "title": "The Babel Inn",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The First Story",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Butcher Paper Press",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "Morrigan's Ghost",
+      "words": 3300
+    },
+    {
+      "ch": 6,
+      "title": "Cassandra's Chords",
+      "words": 3050
+    },
+    {
+      "ch": 7,
+      "title": "The Stockyard Psalms",
+      "words": 3400
+    },
+    {
+      "ch": 8,
+      "title": "Merritt's Lexicon",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Denver Mirage",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "Hudson River Mud",
+      "words": 3250
+    },
+    {
+      "ch": 11,
+      "title": "The Vault's Last Stand",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "Speaking in Tongues",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Dispossessed Interior",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "Phantom Limb City",
+      "words": 3200
+    },
+    {
+      "ch": 15,
+      "title": "The Wrong Listeners",
+      "words": 3050
+    },
+    {
+      "ch": 16,
+      "title": "A Thread to Follow",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "The Rhythm Chase",
+      "words": 3300
+    },
+    {
+      "ch": 18,
+      "title": "Ink or Water",
+      "words": 3150
+    },
+    {
+      "ch": 19,
+      "title": "The Map You Didn't Know",
+      "words": 3000
+    },
+    {
+      "ch": 20,
+      "title": "The Coast is a Direction",
+      "words": 3250
+    },
+    {
+      "ch": 21,
+      "title": "The Stain on the Floor",
+      "words": 3100
+    },
+    {
+      "ch": 22,
+      "title": "The Ghosts Get Restless",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Final Translation",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The New Myth",
+      "words": 3200
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from Cass's perspective, detailing her journey to Denver and the 'rhythm of the dispossessed interior' she seeks to capture in her music.",
+      "Create a 'story for a room' told by another resident of The Babel Inn, following Merritt's rule: something true, never told before, and not poetry.",
+      "Write the scene of Leo's final night at The Vault in New York, the argument about 'purity and sellouts,' and Morrigan's cold gaze that exiled him.",
+      "Detail a day in the life of Merritt, the keeper of The Babel Inn, exploring the 'languages' that come to die there and the stories he hoards."
+    ],
+    "technical": [
+      "Build a 'Mythopoeic Map' generator that takes a user's location and generates a personal 'exile mythology' using Beat-style prose and symbolic anchors (like Leo's jar of mud).",
+      "Create an interactive 'Story for a Room' web app where users can write and share micro-stories under constraints (no poetry, must be true, must captivate), with a virtual 'common room' for listening."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jack Kerouac",
+      "James Baldwin",
+      "Ursula K. Le Guin",
+      "Mikhail Bulgakov"
+    ]
+  },
+  "cover_prompt": "A lone figure, a poet-exile, stands on a rain-slicked highway underpass at night, head tilted as if listening to a distant, internal rhythm, while spectral, translucent images of jazz musicians, typewriters, and road maps flicker around them like memories made of neon light and cigarette smoke, [Detailed Scene & Context: set in a liminal 1950s American landscape where a two-lane blacktop vanishes into darkness, bordered by telegraph poles and the faint glow of a distant diner, with fragmented, ghostly silhouettes of other travelers and mythic symbols of the open road hovering in the misty air], [Artistic Style & Medium: in the atmospheric, textured, and melancholic style of Edward Hopper's nocturnal scenes combined with the ethereal, layered collage techniques and symbolic density of Ana Teresa Barboza's textile art, rendered as a mixed-media oil painting with subtle impasto and translucent glazes], [Composition & Camera: book cover framing, a centered but dynamically off-balance composition that emphasizes the vast, empty road, using a low-angle shot looking up at the underpass to create a sense of monumental exile and longing], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single, unseen sodium-vapor streetlamp casting long, stark shadows, with a color palette of deep indigo night, bruised purples, asphalt grays, and isolated pools of sickly amber and ghostly cobalt blue], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
